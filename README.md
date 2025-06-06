@@ -1,6 +1,6 @@
 # Liphium: Decentralization for everyone
 
-### Liphium is still under heavy development. Please do not yet download the app unless you want to just poke around with it and are prepared for it to stop working in future releases. Use at your own risk.
+### The development of the client for Liphium has been paused. We're currently working on rewriting the client to have a better base for everything that we want to do. If you want updates on the progress, join our [discord server](https://liphium.dev/discord).
 
 Welcome to the repository of the app used to interact with the backend (currently closed source, but publicly available). With this app you can share files of any size, chat with anyone who has a "town" (what we call our servers) and even go into Spaces with them where you can play card games or share Minecraft servers. This is probably the quickest introduction I've ever given about the app and if you want to know more: [Our website exists](https://liphium.com).
 
